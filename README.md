@@ -4,4 +4,4 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ## Day 1 - Expanding Cards
 
-![](https://imgur.com/HS5bwEM)
+![](https://i.imgur.com/HS5bwEM.gif)
