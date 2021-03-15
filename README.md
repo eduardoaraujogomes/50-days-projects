@@ -1,1 +1,7 @@
-# 50-days-projects
+# 50 Projects in 50 Days - HTML/CSS and JavaScript
+
+This repository will contain 50 projects that I will develop using `HTML`, `CSS` and `VanillaJS` 
+
+## Day 1 - Expanding Cards
+
+![]url('https://imgur.com/HS5bwEM')
