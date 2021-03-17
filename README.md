@@ -12,4 +12,4 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ## Day 3 - Rotating Navigation
 
-![](https://i.imgur.com/qpKv7hG.gifv)
+![](https://i.imgur.com/qpKv7hG.gif)
