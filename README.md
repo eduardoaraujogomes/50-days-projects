@@ -13,3 +13,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 3 - Rotating Navigation
 
 ![](https://i.imgur.com/qpKv7hG.gif)
+
+## Day 4 - Hidden Search
+
+![](https://i.imgur.com/U4EieVG.gif)
