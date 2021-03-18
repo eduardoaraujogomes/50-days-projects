@@ -22,7 +22,7 @@ body {
 }
 
 .search .input {
-    background-image: #4DA8DA;
+    background: #fff;
     border: 0;
     font-size: 18px;
     padding: 15px;
