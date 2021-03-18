@@ -117,7 +117,7 @@ nav ul li + li + li {
 
 nav ul li:hover {
     cursor: pointer;
-    background-color:rgb(55, 55, 55);  
+    background-color:rgb(55, 55, 54);  
     border-radius: 20px;
 }
 
