@@ -9,3 +9,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 2 - Progress Steps
 
 ![](https://i.imgur.com/I3BHM5z.gif)
+
+## Day 3 - Rotating Navigation
+
+![](https://i.imgur.com/qpKv7hG.gif)
