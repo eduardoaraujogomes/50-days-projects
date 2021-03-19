@@ -17,3 +17,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 4 - Hidden Search
 
 ![](https://i.imgur.com/YrXIadh.gif)
+
+## Day 5 - Blurry Loading
+
+![](https://i.imgur.com/GDlPN2B.gif)
