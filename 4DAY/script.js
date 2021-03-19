@@ -6,7 +6,16 @@ btn.addEventListener('click', () => {
     search.classList.toggle('active')
     input.focus()
 
+    input.addEventListener('keyup', function (event) {
+        if (event.keyCode === 13) {
+            event.preventDefault();
+            input.value = ''
+        }
+    })
 })
+
+
+
 
 
 
