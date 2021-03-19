@@ -20,4 +20,4 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ## Day 5 - Blurry Loading
 
-![](https://i.imgur.com/GDlPN2B.gif)
+![](https://i.imgur.com/GDlPN2B.gifv)
