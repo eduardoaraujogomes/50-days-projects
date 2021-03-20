@@ -21,3 +21,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 5 - Blurry Loading
 
 ![](https://i.imgur.com/P4oYcJK.gif)
+
+## Day 6 - Scroll Animation
+
+![](https://i.imgur.com/HLrxdiB.gif)
