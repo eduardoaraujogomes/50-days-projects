@@ -25,3 +25,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 6 - Scroll Animation
 
 ![](https://i.imgur.com/HLrxdiB.gif)
+
+## Day 7 - Split Landing Page
+
+![](https://i.imgur.com/eeiebKb.gif)
