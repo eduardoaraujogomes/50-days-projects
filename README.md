@@ -29,3 +29,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 7 - Split Landing Page
 
 ![](https://i.imgur.com/eeiebKb.gif)
+
+## Day 8 - Form Wave Animation
+
+![](https://i.imgur.com/ziTtvyY.gif)
