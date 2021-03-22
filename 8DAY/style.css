@@ -89,7 +89,8 @@ body {
 }
 
 .form-control input:focus,
-.form-control input:valid {
+.form-control input:valid,
+.form-control input:invalid {
     outline: 0;
     border-bottom-color: var(--title);
 }
@@ -109,7 +110,7 @@ body {
 }
 
 .form-control input:focus + label span,
-.form-control input:valid + label span{
+.form-control input:valid + label span {
     color: var(--title);
     transform: translateY(-30px);
 
