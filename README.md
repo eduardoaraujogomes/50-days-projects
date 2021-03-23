@@ -33,3 +33,9 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 8 - Form Wave Animation
 
 ![](https://i.imgur.com/ziTtvyY.gif)
+
+## Day 9 - FAQ Collapse
+
+![](https://i.imgur.com/njNanc4.gif)
+
+
