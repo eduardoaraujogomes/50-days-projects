@@ -38,4 +38,8 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ![](https://i.imgur.com/njNanc4.gif)
 
+## Day 10 - Random Choice Picker
+
+![](https://i.imgur.com/qdXfhVC.gif)
+
 
