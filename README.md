@@ -44,6 +44,6 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ## Day 11 - Animated Nagivation
 
-"[](https://i.imgur.com/GUDxuwO.gif)
+![](https://i.imgur.com/GUDxuwO.gif)
 
 
