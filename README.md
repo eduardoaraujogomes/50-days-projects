@@ -46,4 +46,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ![](https://i.imgur.com/GUDxuwO.gif)
 
+## Day 12 - Increment Counter
+![](https://i.imgur.com/JtL3Lrn.gif)
+
 
