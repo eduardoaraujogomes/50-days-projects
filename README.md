@@ -49,4 +49,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 12 - Increment Counter
 ![](https://i.imgur.com/JtL3Lrn.gif)
 
+## Day 13 - Drink Water
+![](https://i.imgur.com/wANegk4.gif)
+
 
