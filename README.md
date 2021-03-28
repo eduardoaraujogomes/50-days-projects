@@ -52,4 +52,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 13 - Drink Water
 ![](https://i.imgur.com/wANegk4.gif)
 
+## Day 14 - Background Slider
+![](https://i.imgur.com/wjTOzNb.gifv)
+
 
