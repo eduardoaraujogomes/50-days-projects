@@ -53,6 +53,6 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ![](https://i.imgur.com/wANegk4.gif)
 
 ## Day 14 - Background Slider
-![](https://i.imgur.com/wjTOzNb.gifv)
+![](https://i.imgur.com/VvyXVwQ.gif)
 
 
