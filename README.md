@@ -56,4 +56,4 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ![](https://i.imgur.com/VvyXVwQ.gif)
 
 ## Day 15 - Movie App
-![](https://i.imgur.com/Q7eTzLw.gif)
+![](https://i.imgur.com/3gNpcBm.gif)
