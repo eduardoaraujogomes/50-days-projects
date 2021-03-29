@@ -16,12 +16,31 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: var(--secondary-color);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: #90A4AE;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid #90A4AE;  /* creates padding around scroll thumb */
+  }
+
 header {
     padding: 1rem;
     display: flex;
     justify-content: flex-end;  
     background-color: var(--secondary-color);  
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
 }
+
 
 .search {
     background-color: transparent;
