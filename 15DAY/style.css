@@ -40,7 +40,8 @@ header {
 
 .search:focus {
     outline: none;
-    background-color: var(--primary-color);
+    background-color: #fff;
+    color: #000;
 }
 
 main {
