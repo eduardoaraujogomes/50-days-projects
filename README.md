@@ -57,3 +57,6 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ## Day 15 - Movie App
 ![](https://i.imgur.com/3gNpcBm.gif)
+
+## Day 16 - Theme Clock
+![](https://i.imgur.com/kEmqKde.gif)
