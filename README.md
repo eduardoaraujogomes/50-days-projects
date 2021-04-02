@@ -63,3 +63,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ## Day 17 - Button Ripple Effect
 ![](https://i.imgur.com/YfSv7yd.gif)
+
+## Day 18 - Auto Text Effect
+![](https://i.imgur.com/CFKEaAe.gif)
+
