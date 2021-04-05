@@ -70,3 +70,5 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 19 - Auto Texto Effect
 ![](https://i.imgur.com/CFKEaAe.gif)
 
+## Day 20 - Hoverboard
+![](https://i.imgur.com/YxSTcoT.gif)
