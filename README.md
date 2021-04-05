@@ -64,6 +64,9 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 ## Day 17 - Button Ripple Effect
 ![](https://i.imgur.com/YfSv7yd.gif)
 
-## Day 18 - Auto Text Effect
+## Day 18 - Drag N Drop
+![](https://i.imgur.com/Vwv0H8P.gif)
+
+## Day 19 - Auto Texto Effect
 ![](https://i.imgur.com/CFKEaAe.gif)
 
