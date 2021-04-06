@@ -72,3 +72,6 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ## Day 20 - Hoverboard
 ![](https://i.imgur.com/YxSTcoT.gif)
+
+## Day 21 - Random Image Feed
+![](https://i.imgur.com/Wkf1lCI.gif)
