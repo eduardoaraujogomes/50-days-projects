@@ -78,3 +78,6 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ## Day 22 - Mobile Tab Nagivation
 ![](https://i.imgur.com/Vln5m71.gif)
+
+## Day 23 - Double Vertical Slider
+![](https://i.imgur.com/WA5oGZg.gif)
