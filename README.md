@@ -81,3 +81,7 @@ This repository will contain 50 projects that I will develop using `HTML`, `CSS`
 
 ## Day 23 - Double Vertical Slider
 ![](https://i.imgur.com/WA5oGZg.gif)
+
+## Day 24 - Github Profiles
+![](https://i.imgur.com/OtTBBwQ.gif)
+
